@@ -4,10 +4,17 @@
     <title>B2B SaaS Founders &amp; Bootstrappers Hub</title>
     <link>https://b2b-saas-founders-circle-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:02:27 GMT</lastBuildDate>
     <atom:link href="https://b2b-saas-founders-circle-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                    <item>
+                        <item>
+      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
+      <link>https://www.reddit.com/r/rust/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/b2b-saas-founders-circle-hub/#b2b-saas-founders-circle-hub-reddit-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:02:27 GMT</pubDate>
+      <description>Newly verified community added to B2B SaaS Founders &amp; Bootstrappers Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Indie Hackers Community (Forum)</title>
       <link>https://www.indiehackers.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/b2b-saas-founders-circle-hub/#b2b-saas-founders-circle-hub-forum-20260914-1-2026-09-14</guid>
